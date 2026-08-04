@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+# Block admin and authenticated-only routes from indexing
+Disallow: /admin
+Disallow: /client/
+Disallow: /provider/
+Disallow: /messages
+Disallow: /notifications
+Disallow: /book/
+
+# Sitemap location
+Sitemap: https://locallyserve.com/sitemap.xml
