@@ -5,6 +5,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue.svg)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4-38bdf8.svg)](https://tailwindcss.com/)
 [![Redux Toolkit](https://img.shields.io/badge/Redux-Toolkit-764abc.svg)](https://redux-toolkit.js.org/)
+[![License](https://img.shields.io/badge/License-All_Rights_Reserved-red.svg)](../LICENSE)
 
 The **Jacob Web Frontend** (also known as *LocallyServe*) is a modern, responsive web application for the Jacob On-Demand Service & Gig Marketplace platform. Built with **Next.js 16 App Router**, **React 19**, and **Tailwind CSS v4**, this application delivers a fast, interactive experience for browsing services, booking gigs, managing provider storefronts, chatting in real-time, and handling orders.
 
@@ -178,6 +179,8 @@ jacob-frontend-web/
 
 ---
 
-## 📄 License
+## 🔒 License & Copyright
 
-This project is licensed under the [ISC License](LICENSE).
+This project is proprietary software licensed under **Commercial "All Rights Reserved" (Maximum Proprietary Protection)**.
+
+Copyright (c) 2026 Jacob (JACO). All rights reserved. Unauthorized copying, distribution, or modification is strictly prohibited. For details, see the main [`LICENSE`](../LICENSE) file.

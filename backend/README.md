@@ -5,6 +5,7 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-Mongoose-brightgreen.svg)](https://www.mongodb.com/)
 [![Socket.io](https://img.shields.io/badge/Socket.io-4.x-black.svg)](https://socket.io/)
 [![Stripe](https://img.shields.io/badge/Stripe-Webhooks-purple.svg)](https://stripe.com/)
+[![License](https://img.shields.io/badge/License-All_Rights_Reserved-red.svg)](../LICENSE)
 
 The **Jacob Backend** is a high-performance RESTful API and WebSocket engine supporting the Jacob On-Demand Service & Gig Marketplace platform. Built with **Node.js**, **Express 5**, **MongoDB (Mongoose)**, and **Socket.io**, it provides complete authentication, real-time messaging, WebRTC signaling, order payment escrow processing via Stripe, Cloudinary media handling, and automated background jobs.
 
@@ -261,6 +262,8 @@ backend/
 
 ---
 
-## 📄 License
+## 🔒 License & Copyright
 
-This project is licensed under the [ISC License](LICENSE).
+This project is proprietary software licensed under **Commercial "All Rights Reserved" (Maximum Proprietary Protection)**.
+
+Copyright (c) 2026 Jacob (JACO). All rights reserved. Unauthorized copying, distribution, or modification is strictly prohibited. For details, see the main [`LICENSE`](../LICENSE) file.

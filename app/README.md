@@ -1,5 +1,8 @@
 # Jacob (JACO) - On-Demand Service & Gig Marketplace
 
+[![React Native](https://img.shields.io/badge/React_Native-Expo_SDK_54-blue.svg)](https://reactnative.dev/)
+[![License](https://img.shields.io/badge/License-All_Rights_Reserved-red.svg)](../LICENSE)
+
 Jacob is a modern, premium mobile application designed to connect clients with local and remote service providers. Built with **React Native** and **Expo**, the app delivers an interactive, real-time experience that enables clients to book services, converse, and make audio/video calls with providers directly within the app.
 
 ---
@@ -130,3 +133,11 @@ jacob-app/
 ├── package.json          # Dependency listings and project scripts
 └── tsconfig.json         # TypeScript compiler configurations
 ```
+
+---
+
+## 🔒 License & Copyright
+
+This project is proprietary software licensed under **Commercial "All Rights Reserved" (Maximum Proprietary Protection)**.
+
+Copyright (c) 2026 Jacob (JACO). All rights reserved. Unauthorized copying, distribution, or modification is strictly prohibited. For details, see the main [`LICENSE`](../LICENSE) file.

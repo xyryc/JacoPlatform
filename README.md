@@ -5,7 +5,7 @@
 [![React Native](https://img.shields.io/badge/React_Native-Expo_SDK_54-blue.svg)](https://reactnative.dev/)
 [![Express.js](https://img.shields.io/badge/Express-5.x-lightgrey.svg)](https://expressjs.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-Mongoose-brightgreen.svg)](https://www.mongodb.com/)
-[![License](https://img.shields.io/badge/License-ISC-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-All_Rights_Reserved-red.svg)](LICENSE)
 
 **Jacob (JACO)** is a comprehensive, production-grade on-demand service and gig marketplace ecosystem. Designed for seamless interaction between **Clients** searching for local/remote services and **Providers** managing their freelance services, Jacob features a cross-platform mobile application, a Next.js web application, and a real-time Express & Socket.io backend API.
 
@@ -170,6 +170,8 @@ For detailed information on individual modules, refer to their dedicated README 
 
 ---
 
-## 📄 License
+## 🔒 License & Copyright
 
-This project is licensed under the [ISC License](LICENSE).
+This repository is proprietary software licensed under **Commercial "All Rights Reserved" (Maximum Proprietary Protection)**.
+
+Copyright (c) 2026 Jacob (JACO). All rights reserved. Unauthorized copying, distribution, decompilation, or modification of this project, via any medium, is strictly prohibited. For complete details, see the [`LICENSE`](LICENSE) file.
