@@ -174,4 +174,4 @@ For detailed information on individual modules, refer to their dedicated README 
 
 This repository is proprietary software licensed under **Commercial "All Rights Reserved" (Maximum Proprietary Protection)**.
 
-Copyright (c) 2026 Jacob (JACO). All rights reserved. Unauthorized copying, distribution, decompilation, or modification of this project, via any medium, is strictly prohibited. For complete details, see the [`LICENSE`](LICENSE) file.
+Copyright (c) 2026 Anik (@xyryc). All rights reserved. Unauthorized copying, distribution, decompilation, or modification of this project, via any medium, is strictly prohibited. For complete details, see the [`LICENSE`](LICENSE) file.
