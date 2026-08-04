@@ -266,4 +266,4 @@ backend/
 
 This project is proprietary software licensed under **Commercial "All Rights Reserved" (Maximum Proprietary Protection)**.
 
-Copyright (c) 2026 Jacob (JACO). All rights reserved. Unauthorized copying, distribution, or modification is strictly prohibited. For details, see the main [`LICENSE`](../LICENSE) file.
+Copyright (c) 2026 Anik (@xyryc). All rights reserved. Unauthorized copying, distribution, or modification is strictly prohibited. For details, see the main [`LICENSE`](../LICENSE) file.
